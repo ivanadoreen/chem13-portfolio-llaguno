@@ -1,0 +1,2 @@
+AI Tools Used: Gemini / ChatGPT
+Purpose: Primarily used to gather and synthesize factual information regarding the compounds and to generate specific textual elements for the infographics. Also, it was used to verify IUPAC nomenclature, ensure correct APA citation formatting, and summarize the chemical engineering relevance for each molecule.
