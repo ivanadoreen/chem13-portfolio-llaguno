@@ -1,0 +1,8 @@
+AI Tools Used: Gemini, The Alkane, MolDraw
+
+Purpose:
+- Gemini: Primarily used to verify the accuracy of IUPAC nomenclature rules, cross-check bond-line structures against molecular formulas, and ensure proper formatting for the assignment cards.
+
+- The Alkane: Used to generate back-checks, verify systematic IUPAC names from bond-line structures, and confirm molecular formulas.
+
+- MolDraw: Used to draw the chemical bond-line structures and to visually highlight and number the parent carbon chains for the "numbered parent" sections of the portfolio.
